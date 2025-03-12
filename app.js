@@ -1,5 +1,5 @@
-import * as GameBrain from './game.js'
-import * as UI from './ui.js'
+import * as GameBrain from 'game.js'
+import * as UI from 'ui.js'
 let title = document.createElement('h1')
 title.textContent = 'Tic Tac Two'
 title.className = 'title'
